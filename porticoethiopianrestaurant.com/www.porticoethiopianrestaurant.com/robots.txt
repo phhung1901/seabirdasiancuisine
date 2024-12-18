@@ -1,4 +1,0 @@
-﻿User-agent: *
-Crawl-Delay: 10
-Disallow: /Home/GoogleLogin/
-Disallow: /Home/FacebookLogin/
